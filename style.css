@@ -356,6 +356,7 @@ h5{
 .about2 img{
 	height: auto;
 	width: 380px;
+	border-radius: 20px;
 	box-shadow: 0 0 10px #ff2d75, 
 				0 0 20px #ff2d75, 
 				0 0 40px #ff2d75;
